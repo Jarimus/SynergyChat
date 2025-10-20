@@ -1,2 +1,2 @@
 # SynergyChat
-A repo for a K8s course in boot.dev
+A repo for a K8s course on [boot.dev](https://www.boot.dev/courses/learn-kubernetes).
